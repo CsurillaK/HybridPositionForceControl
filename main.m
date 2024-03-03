@@ -1,0 +1,2 @@
+addpath("./Misc");
+Robot.Simulation();
